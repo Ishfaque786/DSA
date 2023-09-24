@@ -4,6 +4,7 @@
       "type": "cppbuild",
       "label": "C/C++: g++.exe build active file",
       "command": "g++",
+      "isBackground": false,
       "args": [
         "-fdiagnostics-color=always",
         "-g",
